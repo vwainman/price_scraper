@@ -1,2 +1,4 @@
-# price_scraper
-An attempt at a OOP approach to a webscraper that retrieves the best deals for a product on a particular website. It only works with newegg and requires refinement.
+# Newegg Price Scraper
+An attempt at a basic OOP approach to an newegg webscraper that retrieves the best deals for a desired product.
+
+Requires refactoring and a few other adjustments - so it's a work in progress.
